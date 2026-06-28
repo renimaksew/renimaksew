@@ -4,7 +4,7 @@ Pixel Pusher, Code Crafter
 
 I create digital tools for calm, clarity and focus.
 
-My work lately involves a passion project that I've been developing for a few years now(no spoilers at this time), along with some freelance consulting.
+My work lately involves a game project(no spoilers at this time), along with some freelance consulting.
 
 ### 🥞 Stack
 
