@@ -7,7 +7,7 @@ My work lately involves a game project(<b>no spoilers at this time</b>), along w
 
 <br>
 
-[![Wes' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renimaksew&theme=github)](https://github.com/renimaksew/github-readme-activity-graph)
+[![Wes' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renimaksew&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 #
 ### 🥞 Stack
