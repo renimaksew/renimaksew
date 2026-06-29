@@ -1,10 +1,13 @@
 ## 👋 Hi there, I'm Wes
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=BB51F7&width=435&lines=pixel+pusher.;code+crafter.;constantly+curious.)](https://git.io/typing-svg)
 
-Pixel Pusher, Code Crafter
+<i>I create digital tools for calm, clarity and focus.
 
-I create digital tools for calm, clarity and focus.
+My work lately involves a game project(no spoilers at this time), along with some freelance consulting.</i>
 
-My work lately involves a game project(no spoilers at this time), along with some freelance consulting.
+### 📝 Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 🥞 Stack
 
