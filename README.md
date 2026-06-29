@@ -10,7 +10,7 @@ My work lately involves a game project(no spoilers at this time), along with som
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,py,html,css,sass,js,nextjs,ts,angular,react,nodejs,npm,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=neovim,emacs,markdown,py,rust,go,html,css,js,ts,react,deno,docker,figma,godot" />
   </a>
 </p>
 
