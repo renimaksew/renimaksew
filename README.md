@@ -3,8 +3,21 @@
 
 <i>I create digital tools for calm, clarity and focus.
 
-My work lately involves a game project(no spoilers at this time), along with some freelance consulting.</i>
+My work lately involves a game project(<b>no spoilers at this time</b>), along with some freelance consulting.</i>
 
+<br>
+
+[![Wes' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renimaksew&theme=github)](https://github.com/renimaksew/github-readme-activity-graph)
+
+#
+### 🥞 Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,emacs,markdown,py,rust,go,html,css,js,ts,react,deno,docker,figma,godot" />
+  </a>
+</p>
+
+#
 ### 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Human &amp; AI Development](https://renimaksew.com/projects/cryptodb/)
@@ -13,16 +26,6 @@ My work lately involves a game project(no spoilers at this time), along with som
 - [Now](https://renimaksew.com/now/)
 - [ALL GET OUT](https://renimaksew.com/projects/ago/)
 <!-- BLOG-POST-LIST:END -->
-
-### 🥞 Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,emacs,markdown,py,rust,go,html,css,js,ts,react,deno,docker,figma,godot" />
-  </a>
-</p>
-
-[![Wes' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renimaksew&theme=github)](https://github.com/renimaksew/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
