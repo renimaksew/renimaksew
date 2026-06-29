@@ -14,6 +14,12 @@ My work lately involves a game project(no spoilers at this time), along with som
   </a>
 </p>
 
+[![Wes' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renimaksew&theme=github)](https://github.com/renimaksew/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
 #
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
