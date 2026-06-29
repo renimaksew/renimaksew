@@ -7,6 +7,11 @@ My work lately involves a game project(no spoilers at this time), along with som
 
 ### 📝 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Human &amp; AI Development](https://renimaksew.com/projects/cryptodb/)
+- [Neovim + LazVim](https://renimaksew.com/journal/neovim/)
+- [EDC](https://renimaksew.com/posts/edc/)
+- [Now](https://renimaksew.com/now/)
+- [ALL GET OUT](https://renimaksew.com/projects/ago/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🥞 Stack
