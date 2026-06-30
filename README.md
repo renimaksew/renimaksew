@@ -10,26 +10,12 @@ My work lately involves a game project(<b>no spoilers at this time</b>), along w
 [![Wes' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renimaksew&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 #
-### 🥞 dev stack
+### 🥞 stack
 
-#### game
+#### os + editors
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,godot,cs,unreal,cpp,blender" />
-  </a>
-</p>
-
-#### web
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,deno,bun" />
-  </a>
-</p>
-
-#### other
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,neovim,emacs,markdown,py,rust,go,zig,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=neovim,emacs,markdown,godot,cs,python,rust,go,zig,html,css,js,ts,docker,figma" />
   </a>
 </p>
 
