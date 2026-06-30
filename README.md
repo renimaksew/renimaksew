@@ -12,7 +12,6 @@ My work lately involves a game project(<b>no spoilers at this time</b>), along w
 #
 ### 🥞 stack
 
-#### os + editors
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=neovim,emacs,markdown,godot,cs,python,rust,go,zig,html,css,js,ts,docker,figma" />
