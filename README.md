@@ -33,9 +33,6 @@ My work lately involves a game project(<b>no spoilers at this time</b>), along w
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-#
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 <!--
 **renimaksew/renimaksew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
