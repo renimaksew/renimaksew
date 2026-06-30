@@ -1,24 +1,40 @@
 ## 👋 Hi there, I'm Wes
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=BB51F7&width=435&lines=pixel+pusher.;code+crafter.;constantly+curious.)](https://git.io/typing-svg)
 
-<i>I create digital tools for calm, clarity and focus.
+I create digital tools for calm, clarity and focus.
 
-My work lately involves a game project(<b>no spoilers at this time</b>), along with some freelance consulting.</i>
+My work lately involves a game project(<b>no spoilers at this time</b>), along with some freelance consulting.
 
 <br>
 
 [![Wes' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renimaksew&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 #
-### 🥞 Stack
+### 🥞 dev stack
+
+#### game
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,emacs,markdown,py,rust,go,html,css,js,ts,react,deno,docker,figma,godot" />
+    <img src="https://skillicons.dev/icons?i=windows,godot,cs,unreal,cpp,blender" />
+  </a>
+</p>
+
+#### web
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,deno,bun" />
+  </a>
+</p>
+
+#### other
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,neovim,emacs,markdown,py,rust,go,zig,docker,figma" />
   </a>
 </p>
 
 #
-### 📝 Latest blog posts
+### 📝 latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Human &amp; AI Development](https://renimaksew.com/projects/cryptodb/)
 - [Neovim + LazVim](https://renimaksew.com/journal/neovim/)
