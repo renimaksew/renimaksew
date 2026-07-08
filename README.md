@@ -14,7 +14,7 @@ My work lately involves a game project(<b>no spoilers at this time</b>), along w
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,emacs,markdown,godot,cs,python,rust,go,zig,html,css,js,ts,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=neovim,emacs,markdown,godot,cs,cpp,python,rust,go,zig,html,css,js,docker,figma" />
   </a>
 </p>
 
