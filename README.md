@@ -1,3 +1,5 @@
+[![Image from Gyazo](https://i.gyazo.com/8b03ce3fea2ef1d9aa36c776c3544390.png)](https://gyazo.com/8b03ce3fea2ef1d9aa36c776c3544390)
+
 ## 👋 Hi there, I'm Wes
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=BB51F7&width=435&lines=pixel+pusher.;code+crafter.;constantly+curious.)](https://git.io/typing-svg)
 
